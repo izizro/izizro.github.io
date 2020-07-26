@@ -2,11 +2,10 @@
 
 Aquí podrás encontrar la lista de proyectos creados por Iziz
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Irá en crecimiento
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Cada semana habrá nuevas páginas y proyectos esté pendiente
 
 ```markdown
 Syntax highlighted code block
